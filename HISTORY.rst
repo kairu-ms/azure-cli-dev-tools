@@ -5,7 +5,7 @@ Release History
 
 0.1.30
 ++++++
-* Change azure-storage-blob dependency (#290)
+* Fix azure-storage-blob < 2.0.0 because storage code is for track1 and with version >= 12.0.0 (#290)
 
 0.1.29
 ++++++
